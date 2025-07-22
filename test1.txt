@@ -1,2 +1,3 @@
 create test.txt file 
 creating new file
+i want toknow how to work in git
